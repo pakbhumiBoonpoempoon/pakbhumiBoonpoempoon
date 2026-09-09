@@ -7,6 +7,24 @@ Into clean architecture, developer tooling, and networking internals.
 
 ---
 
+### 💼 Selected work
+
+**Shopping / e‑commerce feature — Flutter (production consumer app)**
+<!-- ใส่ชื่อบริษัท/ลูกค้าได้ถ้าต้องการ เช่น "at True" -->
+Owned the product‑listing and shopping flow end to end:
+- Feature module in **Clean Architecture** (data / domain / presentation) with
+  **BLoC + Freezed** state management
+- Retrofit API services + a Mapper layer (DTO → entity), **GoRouter** navigation,
+  **GetIt** dependency injection
+- Unified `UIStatus` state handling — loading / success / empty / error — across
+  the product list, detail and cart screens
+- Localization (TH/EN) and a shared design‑system component library
+- Test coverage: unit + `bloc_test`, widget tests with `mocktail`, golden tests
+
+<!-- ปรับหัวข้อย่อยให้ตรงกับที่ทำจริง / เพิ่มตัวเลขได้ เช่น "cut PLP load time 30%" -->
+
+---
+
 ### 🔭 Featured project
 
 **[ProxymanClone](https://github.com/pakbhumiBoonpoempoon/Mock-api)** — a Proxyman/Charles-style
