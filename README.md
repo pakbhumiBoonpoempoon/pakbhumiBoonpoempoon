@@ -7,7 +7,7 @@ Into clean architecture, developer tooling, and networking internals.
 
 ---
 
-### 💼 Selected work
+### 💼 Selected work at True
 
 **Shopping / e‑commerce feature — Flutter (production consumer app)**
 <!-- ใส่ชื่อบริษัท/ลูกค้าได้ถ้าต้องการ เช่น "at True" -->
